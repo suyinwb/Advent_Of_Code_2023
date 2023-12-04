@@ -1,0 +1,16 @@
+
+#Mac changes files
+.DS_Store*
+
+#API keys
+API*
+
+#practice directory
+practice/*
+
+#ignore sample codes for testing
+sample*
+
+#checkpoints directory
+checkpoints/*
+*checkpoints*
