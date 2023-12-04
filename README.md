@@ -2,3 +2,4 @@
 https://adventofcode.com/2023
 
 Day 1: Trebuchet
+Day 2: Cube Conundrum
