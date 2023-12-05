@@ -14,3 +14,6 @@ sample*
 #checkpoints directory
 checkpoints/*
 *checkpoints*
+
+#input directory
+resources/*
