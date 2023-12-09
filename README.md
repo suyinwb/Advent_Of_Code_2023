@@ -18,4 +18,4 @@ Day 6: Wait For It
 
 Day 7: Camel Cards
 
-Day 8: Haunted Wasteland
+Day 8: Haunted Wasteland - from this, I learned to use itertools -> cycle and lcm
