@@ -18,4 +18,7 @@ Day 6: Wait For It
 
 Day 7: Camel Cards
 
-Day 8: Haunted Wasteland - from this, I learned to use itertools -> cycle and lcm
+Day 8: Haunted Wasteland
+While I understand Part 1 problem, I do not know the tools for to keep on iterating:
+from this, I learned to use itertools -> cycle
+For Part 2: I need to use math -> lcm. lcm is only available after python 3.9 so must upgrade python.
