@@ -15,6 +15,7 @@ Day 4: Scratchcards - COMPLETED
 Day 5: If You Give A Seed A Fertilizer - Part 2 is off...
 
 Day 6: Wait For It
+quadratic equation, no you don't need to go nuts over it, see the pattern and code for the pattern. Woah! Repeatable in Part 2!
 
 Day 7: Camel Cards
 
@@ -22,3 +23,7 @@ Day 8: Haunted Wasteland
 While I understand Part 1 problem, I do not know the tools for to keep on iterating:
 from this, I learned to use itertools -> cycle
 For Part 2: I need to use math -> lcm. lcm is only available after python 3.9 so must upgrade python.
+
+
+## My learning
+I like using: for i in range(start, stop, step):
