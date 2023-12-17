@@ -17,14 +17,14 @@ Day 5: If You Give A Seed A Fertilizer - Completed Part 1, Part 2 is off...
 Day 6: Wait For It - COMPLETED
 quadratic equation, no you don't need to go nuts over it, see the pattern and code for the pattern. Woah! Repeatable in Part 2!
 
-Day 7: Camel Cards - Part 1 stuck = must write the sort for each card in the draw. 
+Day 7: Camel Cards - Part 1 stuck = must write the sort for each card in the draw.
 
 Day 8: Haunted Wasteland - COMPLETED
 While I understand Part 1 problem, I do not know the tools for to keep on iterating:
 from this, I learned to use itertools -> cycle
 For Part 2: I need to use math -> lcm. lcm is only available after python 3.9 so must upgrade python.
 
-Day 9: Mirage Maintenance
+Day 9: Mirage Maintenance - COMPLETED
 
 Day 10: Pipe Maze
 
