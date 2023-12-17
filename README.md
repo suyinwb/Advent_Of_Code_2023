@@ -29,6 +29,19 @@ Day 9: Mirage Maintenance - COMPLETED
 Day 10: Pipe Maze
 
 Day 11: Cosmic Expansion - Not Started
+Learn about np.array_equal where a 2D array that has been converted to base 10 integers can be compared row by row or column by column. 
+
+Day 12: Hot Springs
+
+Day 13: Point of Incidence
+
+Day 14: Parabolic Reflector Dish
+
+Day 15: Lens Library
+
+Day 16: The Floor Will Be Lava
+
+
 
 ## My learning
 I like using: for i in range(start, stop, step):
