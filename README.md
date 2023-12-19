@@ -29,7 +29,7 @@ Learned python all() and any().
 
 Day 10: Pipe Maze
 
-Day 11: Cosmic Expansion - Solved Part 1. Part 2 get right answer on sample data but wrong answer for actual data.. Why?
+Day 11: Cosmic Expansion - COMPLETED
 Learned a lot of numpy. It's really useful! Find the cheat sheet.
 https://images.datacamp.com/image/upload/v1676302459/Marketing/Blog/Numpy_Cheat_Sheet.pdf
 
