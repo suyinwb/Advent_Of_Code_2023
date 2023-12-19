@@ -25,15 +25,21 @@ from this, I learned to use itertools -> cycle
 For Part 2: I need to use math -> lcm. lcm is only available after python 3.9 so must upgrade python.
 
 Day 9: Mirage Maintenance - COMPLETED
+Learned python all() and any().
 
 Day 10: Pipe Maze
 
-Day 11: Cosmic Expansion - Not Started
-Learn about np.array_equal where a 2D array that has been converted to base 10 integers can be compared row by row or column by column. 
+Day 11: Cosmic Expansion - Solved Part 1. Part 2 get right answer on sample data but wrong answer for actual data.. Why?
+Learned a lot of numpy. It's really useful! Find the cheat sheet.
+https://images.datacamp.com/image/upload/v1676302459/Marketing/Blog/Numpy_Cheat_Sheet.pdf
+
 
 Day 12: Hot Springs
 
 Day 13: Point of Incidence
+Really learn about numpy
+Learn about np.array_equal where a 2D array that has been converted to base 10 integers can be compared row by row or column by column.
+use zip reverse
 
 Day 14: Parabolic Reflector Dish
 
