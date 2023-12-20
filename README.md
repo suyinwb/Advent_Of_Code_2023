@@ -43,7 +43,7 @@ use zip reverse
 
 Day 14: Parabolic Reflector Dish
 
-Day 15: Lens Library
+Day 15: Lens Library - Completed Part 1
 
 Day 16: The Floor Will Be Lava
 
